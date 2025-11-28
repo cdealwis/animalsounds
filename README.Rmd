@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # animalsounds
 
 <!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/cdealwis/animalsounds/graph/badge.svg)](https://app.codecov.io/gh/cdealwis/animalsounds)
+[![R-CMD-check](https://github.com/cdealwis/animalsounds/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cdealwis/animalsounds/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of animalsounds is to help users to mix animals and sounds like you want. The cow should go woof? No problem for animalsounds!
