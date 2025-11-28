@@ -1,0 +1,16 @@
+---
+title: "animalsounds"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(animalsounds)
+```
+
+Coucou, was genau ist der Unterschied zwischen Artikel und Vignette? Also eigentlich nutzt das wohl niemand. Und da muss man auch nicht devtools::install(build_vignettes = TRUE) laufen lassen.Also vergesse ich Artikel direkt wieder...

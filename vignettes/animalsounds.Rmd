@@ -1,0 +1,34 @@
+---
+title: "animalsounds"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{animalsounds}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(animalsounds)
+```
+
+Maybe I should just copy some info from my readme. 
+
+But okay, here we go again. Print what an animal says:
+
+```{r}
+animal_sounds("mule","i-a")
+```
+
+And not only that. It also contains data to help you learn about the sounds animals make.
+
+```{r}
+farm_animals
+```
+
