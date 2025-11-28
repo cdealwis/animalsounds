@@ -12,6 +12,7 @@ Prints the sounds that animals make. Also contains a data set of farm animals an
 Useful links:
 \itemize{
   \item \url{https://github.com/EllaKaye/animalsounds}
+  \item \url{https://cdealwis.github.io/animalsounds/}
   \item Report bugs at \url{https://github.com/EllaKaye/animalsounds/issues}
 }
 
